@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: Space_35
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: "Lacross Subsala 3 Old 2\xB0T"
+  sku: 7jjnglfjxae820sgpzbf2st2
+  packageName: "Alamos Subsala 3 Kids 2\xB0T"
   thumbnail: {fileID: 2800000, guid: f707e9cfb13ba524fa9656696cc0aa2f, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
-  scene: {fileID: 102900000, guid: 5762c30c60cb90c4095b2b94745bda09, type: 3}
+  worldID: 5ha5pfan889hhwgypcb9e
+  scene: {fileID: 102900000, guid: df109230d2d9e09429087efeeb629046, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: d3b0eae98add2c64fa3ecd6e742b5015,
     type: 3}
   embeddedPackageAssets: []
